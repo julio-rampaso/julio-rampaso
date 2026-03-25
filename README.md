@@ -2,8 +2,8 @@
 
 ### Olá Eu sou o Asguz ou se preferir Júlio Rampaso que é o meu nome de verdade 👋
 
-- 🔭 Atualmente fazendo lives na twitch, trabalhando com pintura e compondo musicas instrumentais..
-- 🌱 Aprendendo HTML5, CSS3, JavaScript e Python
+- 🔭 Atualmente trabalhando com design gráfico e compondo musicas instrumentais..
+- 🌱 Aprendendo Java
 - 🤔 Aceito qualquer ajuda e dica sobre esses e mais items acima!
 <div align="center">
   <a href="https://github.com/julio-rampaso">
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://icongr.am/devicon/java-original.svg?size=128&color=currentColor)">
 </div>
 
 ##
